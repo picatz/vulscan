@@ -1,0 +1,13 @@
+{
+  "vulnerabilities": {
+    "name": "Hello World",
+    "references": [
+      "https://en.wikipedia.org/wiki/%22Hello,_World22_program"
+    ],
+    "31337": {
+      "vulnerable_string": "Hello World\n",
+      "timeout": 5,
+      "recv": 1024
+    }
+  }
+}
